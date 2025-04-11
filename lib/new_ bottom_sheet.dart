@@ -5,6 +5,11 @@ class BottomSheet extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Text("hello this is my first file");
+    return Column(
+      children: [
+        Text("hi my name is aryan"),
+        Text("hello this is my first file"),
+      ],
+    );
   }
 }
