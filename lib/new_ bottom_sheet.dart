@@ -10,6 +10,10 @@ class BottomSheet extends StatelessWidget {
         Text("hi my name is aryan"),
         Text("hello this is my first file"),
         Text("hello this is my second file"),
+        Text("hello this is my third file"),
+        Text("this is my stash text"),
+        Text("this is my 2 stash text"),
+        Text("this is my 3 stash text"),
       ],
     );
   }
